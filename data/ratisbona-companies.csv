@@ -1,0 +1,757 @@
+id,street,street_number,city,postal_code,lat,lon,name
+1,Friedrich-Viehbacher-Allee,5,Regensburg,93055,48.98832966683645,12.14155631710349,Zilk Immobilien- + Verwaltungs-GmbH
+2,Friedrich-Viehbacher-Allee,3,Regensburg,93055,48.98892086702966,12.141649489071922,Fahrschul-Zentrum Burgweinting UG (haftungsbeschränkt)
+3,Friedrich-Viehbacher-Allee,3,Regensburg,93055,48.98892086702966,12.141649489071922,Aquaristik Walther GmbH
+4,Neupfarrplatz,8,Regensburg,93047,49.01823147691124,12.097392038288373,Jende GmbH + Co. KG
+5,Schopperplatz,6,Regensburg,93059,49.024290523263325,12.086604968865585,Tennisbau- + -betriebsgesellschaft der Regensburger Turnerschaft GmbH
+6,Kaulbachweg,31,Regensburg,93051,49.002658289034464,12.075987299788997,Sportgemeinschaft Post/Süd Regensburg e.V.
+7,Am Kreuzhof,3,Regensburg,93055,49.00679030055655,12.177313600879698,Seltenhofer GmbH
+8,Erzbischof-Buchberger-Allee,12,Regensburg,93051,49.004711000040665,12.078867237510233,"Hammedinger Radio-, Fernseh- Video GmbH"
+9,Cranachweg,16,Regensburg,93051,49.006915700057206,12.064527249974498,BFK Bau GmbH
+10,Merianweg,4,Regensburg,93051,49.005926076604,12.062189112081034,Roadhouse Company Betriebs GmbH + Co. KG
+11,Merianweg,4,Regensburg,93051,49.005926076604,12.062189112081034,Roadhouse-Company Verwaltungs GmbH
+12,Merianweg,4,Regensburg,93051,49.005926076604,12.062189112081034,autogaszentrum ostbayern GmbH
+13,Merianweg,4,Regensburg,93051,49.00542871447806,12.06229174300331,Roadhouse Company Betriebs GmbH + Co. KG
+14,Merianweg,4,Regensburg,93051,49.00542871447806,12.06229174300331,Roadhouse-Company Verwaltungs GmbH
+15,Merianweg,4,Regensburg,93051,49.00542871447806,12.06229174300331,autogaszentrum ostbayern GmbH
+16,Cranachweg,10,Regensburg,93051,49.00629885004192,12.06490557505384,Kunstverlag Maximilian Liebl - Inhaber: Dipl.-Kfm. Walter J. Liebl
+17,Merianweg,1,Regensburg,93051,49.00486192505616,12.063196025035827,Dental-Keramik Poljakow + Müller GmbH
+18,Cranachweg,3,Regensburg,93051,49.00611683338655,12.064488266699506,S. Penka Steuerberatungsgesellschaft mbH
+19,Cranachweg,3,Regensburg,93051,49.00611683338655,12.064488266699506,Penka + Partner Rechtsanwälte Steuerberater
+20,Cranachweg,3,Regensburg,93051,49.00611683338655,12.064488266699506,Armin Freudenberg e.K.
+21,Cranachweg,3,Regensburg,93051,49.00611683338655,12.064488266699506,A+O Handelsgesellschaft mbH
+22,Cranachweg,3,Regensburg,93051,49.00611683338655,12.064488266699506,Lang Immobilien GmbH
+23,Cranachweg,3,Regensburg,93051,49.00611683338655,12.064488266699506,Dr. Weinelt + Kollegen KG Treuhandgesellschaft
+24,Cranachweg,3,Regensburg,93051,49.00611683338655,12.064488266699506,DGW Grundstücks GmbH + Co. KG
+25,Cranachweg,3,Regensburg,93051,49.00611683338655,12.064488266699506,DGW Geschäftsführungsgesellschaft mbH
+26,Cranachweg,8,Regensburg,93051,49.00603985004756,12.065081400019498,Gründerforum Bayern UG (haftungsbeschränkt)
+27,Cranachweg,8,Regensburg,93051,49.00603985004756,12.065081400019498,Quindi Institut GmbH
+28,Cranachweg,8,Regensburg,93051,49.00603985004756,12.065081400019498,StaF GmbH
+29,Cranachweg,8,Regensburg,93051,49.00603985004756,12.065081400019498,Peringenio GmbH
+30,Cranachweg,4,Regensburg,93051,49.00564513004219,12.065591349993134,DELTATIME GmbH
+31,Cranachweg,4,Regensburg,93051,49.00564513004219,12.065591349993134,ETS ELEKTRO-TECHNIK-SCHÖN GmbH
+32,Merianweg,3,Regensburg,93051,49.00473075008982,12.062850300137324,FINANZ + KONZEPT GmbH
+33,Merianweg,3,Regensburg,93051,49.00473075008982,12.062850300137324,MehrWert Management GmbH
+34,Merianweg,3,Regensburg,93051,49.00473075008982,12.062850300137324,KAG Erneuerbare Energien GmbH
+35,Merianweg,3,Regensburg,93051,49.00473075008982,12.062850300137324,Konzept AG
+36,Merianweg,3,Regensburg,93051,49.00473075008982,12.062850300137324,ASF Baudienstleistung GmbH
+37,Cranachweg,1,Regensburg,93051,49.00592845005195,12.06410293349103,Dallmeier GmbH
+38,Cranachweg,1,Regensburg,93051,49.00592845005195,12.06410293349103,Dallmeier electronic GmbH + Co. KG
+39,Am Vitusbach,19,Regensburg,93051,49.00225445004389,12.086271150042371,TVS Semmelmann OHG
+40,Am Vitusbach,17,Regensburg,93051,49.002366400047066,12.0864485500478,Weindinger Gastro GmbH
+41,Donauerweg,5,Regensburg,93049,49.014900050026725,12.053564599999408,MEGIST Consulting GmbH
+42,Raseliusweg,2,Regensburg,93049,49.01663037502671,12.051436424999697,Mihalovits Invest GmbH
+43,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,E.K. Center Apotheke Joachim Bettge
+44,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Meyerhofer: Die grüne Bar e.K.
+45,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Luisa Retail GmbH
+46,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Saturn Electro-Handelsgesellschaft mbH
+47,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Meyerhofer GmbH
+48,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Tom + Peter Gastro Verwaltungs-GmbH
+49,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Tom + Peter Gastro GmbH + Co. KG
+50,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,DIMASE GmbH + Co. Regensburg KG
+51,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Center Italia GmbH + Co. KG
+52,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Baumgartner Optik Donau-Einkaufszentrum e.K.
+53,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Center Italia Verwaltungs-GmbH
+54,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Marc Aurel Apotheke im Donaueinkaufszentrum e.K.
+55,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Sport-Tahedl GmbH
+56,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Papeterie Nagel GmbH
+57,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Donau-Einkaufszentrum GmbH
+58,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Bretthauer GmbH + Co. Vermietungs- und Verpachtungs KG
+59,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Toys + more Regensburg GmbH
+60,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Bretthauer GmbH
+61,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Kleeblatt e.K.
+62,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Vereinigung der Kaufleute im Donau-Einkaufszentrum e.V.
+63,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,VENTURA MODE Textilhandels KG
+64,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,SMA Supermarkt Anlage Vermögensverwaltung KG
+65,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Penni Moden GmbH
+66,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Landspezialitäten e. kruschwitz e.K.
+67,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Fritz Sachs
+68,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,bunte truhe Kunstgewerbe - exklusive Geschenke GmbH
+69,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Fleiner GmbH + Co. KG
+70,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,bunte truhe kunstgewerbeexklusive Geschenke GmbH
+71,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Kräuter Hex Ingrid Weilbach
+72,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Reisecenter Sommer e.K.
+73,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Reformhaus Vilsmeier e.K.
+74,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,VITTORIO SPORTSWEAR GmbH
+75,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Fleiner Verwaltungs GmbH
+76,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Fielmann AG + Co. im Donau-Einkaufszentrum KG
+77,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Die Insel Fitness + Wellness GmbH
+78,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Baumgartner Optik DEZ KG
+79,Weichser Weg,5,Regensburg,93059,49.02587829328238,12.116305575545244,Glöckl der regensburger GmbH
+80,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn und Taxis Beteiligungs GmbH + Co. KG
+81,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn und Taxis Schloss St. Emmeram Grundstücksverwaltungs GmbH + Co. KG
+82,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,SWK SachWertKontor UG (haftungsbeschränkt)
+83,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,ibi Research an der Universität Regensburg GmbH
+84,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,"Thurn + Taxis Vermietungs-GmbH, Gesellschaft für Verwaltung + Verwertung von Immobilien"
+85,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn und Taxis Brauerei-Immobilien GmbH + Co. KG
+86,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn und Taxis Forst GmbH + Co. KG
+87,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn und Taxis Immobilien Service GmbH + Co. Objekt Galgenberg KG
+88,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Immobilien Service GmbH
+89,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn und Taxis Grundstücksverwaltungs-GmbH + Co. Objekt Bajuwarenstrasse-KG
+90,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn und Taxis Grundstücksverwaltungs-GmbH
+91,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Schlösser Beteiligungs GmbH
+92,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Forst Beteiligungs-GmbH
+93,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Vermögensverwaltungs-GmbH
+94,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Unternehmensbeteiligungs GmbH
+95,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Immobilien Service GmbH + Co. Objekt Galgenberg KG
+96,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Forst GmbH + Co. KG
+97,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Deutsche Industriegesellschaft mbH
+98,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Immobilien Service GmbH + Co. Grundstücksentwicklungs-KG
+99,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,"Thurn + Taxis Vermietungs-GmbH, Gesellschaft für Verwaltung"
+100,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Brauerei-Immobilien GmbH + Co. KG
+101,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Grundstücksverwaltungs-GmbH + Co. Bajuwarenstrasse-KG
+102,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Grundstücksverwaltungs-GmbH
+103,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Brauerei-Immobilien Beteiligungs-GmbH
+104,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,Thurn + Taxis Forstverwaltungs oHG
+105,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,KPWT KIRSCHNER LÖFFLER WIRTSCHAFTSTREUHAND GMBH Wirtschaftprüfungsgesellschaft
+106,Emmeramsplatz,5,Regensburg,93047,49.01443813078348,12.092961037591596,TTL International AG
+107,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn und Taxis Beteiligungs GmbH + Co. KG
+108,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn und Taxis Schloss St. Emmeram Grundstücksverwaltungs GmbH + Co. KG
+109,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,SWK SachWertKontor UG (haftungsbeschränkt)
+110,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,ibi Research an der Universität Regensburg GmbH
+111,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,"Thurn + Taxis Vermietungs-GmbH, Gesellschaft für Verwaltung + Verwertung von Immobilien"
+112,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn und Taxis Brauerei-Immobilien GmbH + Co. KG
+113,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn und Taxis Forst GmbH + Co. KG
+114,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn und Taxis Immobilien Service GmbH + Co. Objekt Galgenberg KG
+115,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Immobilien Service GmbH
+116,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn und Taxis Grundstücksverwaltungs-GmbH + Co. Objekt Bajuwarenstrasse-KG
+117,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn und Taxis Grundstücksverwaltungs-GmbH
+118,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Schlösser Beteiligungs GmbH
+119,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Forst Beteiligungs-GmbH
+120,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Vermögensverwaltungs-GmbH
+121,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Unternehmensbeteiligungs GmbH
+122,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Immobilien Service GmbH + Co. Objekt Galgenberg KG
+123,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Forst GmbH + Co. KG
+124,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Deutsche Industriegesellschaft mbH
+125,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Immobilien Service GmbH + Co. Grundstücksentwicklungs-KG
+126,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,"Thurn + Taxis Vermietungs-GmbH, Gesellschaft für Verwaltung"
+127,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Brauerei-Immobilien GmbH + Co. KG
+128,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Grundstücksverwaltungs-GmbH + Co. Bajuwarenstrasse-KG
+129,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Grundstücksverwaltungs-GmbH
+130,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Brauerei-Immobilien Beteiligungs-GmbH
+131,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,Thurn + Taxis Forstverwaltungs oHG
+132,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,KPWT KIRSCHNER LÖFFLER WIRTSCHAFTSTREUHAND GMBH Wirtschaftprüfungsgesellschaft
+133,Emmeramsplatz,5,Regensburg,93047,49.01467357237906,12.091926061218292,TTL International AG
+134,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn und Taxis Beteiligungs GmbH + Co. KG
+135,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn und Taxis Schloss St. Emmeram Grundstücksverwaltungs GmbH + Co. KG
+136,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,SWK SachWertKontor UG (haftungsbeschränkt)
+137,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,ibi Research an der Universität Regensburg GmbH
+138,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,"Thurn + Taxis Vermietungs-GmbH, Gesellschaft für Verwaltung + Verwertung von Immobilien"
+139,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn und Taxis Brauerei-Immobilien GmbH + Co. KG
+140,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn und Taxis Forst GmbH + Co. KG
+141,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn und Taxis Immobilien Service GmbH + Co. Objekt Galgenberg KG
+142,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Immobilien Service GmbH
+143,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn und Taxis Grundstücksverwaltungs-GmbH + Co. Objekt Bajuwarenstrasse-KG
+144,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn und Taxis Grundstücksverwaltungs-GmbH
+145,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Schlösser Beteiligungs GmbH
+146,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Forst Beteiligungs-GmbH
+147,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Vermögensverwaltungs-GmbH
+148,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Unternehmensbeteiligungs GmbH
+149,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Immobilien Service GmbH + Co. Objekt Galgenberg KG
+150,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Forst GmbH + Co. KG
+151,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Deutsche Industriegesellschaft mbH
+152,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Immobilien Service GmbH + Co. Grundstücksentwicklungs-KG
+153,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,"Thurn + Taxis Vermietungs-GmbH, Gesellschaft für Verwaltung"
+154,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Brauerei-Immobilien GmbH + Co. KG
+155,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Grundstücksverwaltungs-GmbH + Co. Bajuwarenstrasse-KG
+156,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Grundstücksverwaltungs-GmbH
+157,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Brauerei-Immobilien Beteiligungs-GmbH
+158,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,Thurn + Taxis Forstverwaltungs oHG
+159,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,KPWT KIRSCHNER LÖFFLER WIRTSCHAFTSTREUHAND GMBH Wirtschaftprüfungsgesellschaft
+160,Emmeramsplatz,5,Regensburg,93047,49.015142081989566,12.09188282751266,TTL International AG
+161,Im Gewerbepark,C35,Regensburg,93059,49.02944560018359,12.125363200031108,NWA Partnerservice Ltd.
+162,Im Gewerbepark,C25,Regensburg,93059,49.02988871270774,12.124867075033068,Östergrens Elmotor GmbH
+163,Im Gewerbepark,C25,Regensburg,93059,49.02988871270774,12.124867075033068,Süd-West-Park Grundstücksverwaltungsgesellschaft mbH
+164,Im Gewerbepark,C25,Regensburg,93059,49.02988871270774,12.124867075033068,Rastpark Grundstücksverwaltungsgesellschaft mbH
+165,Im Gewerbepark,C25,Regensburg,93059,49.02988871270774,12.124867075033068,KBL Technology Management GmbH
+166,Im Gewerbepark,C25,Regensburg,93059,49.02988871270774,12.124867075033068,PAB HRConsulting Josef Dantinger e.K.
+167,Im Gewerbepark,C25,Regensburg,93059,49.02988871270774,12.124867075033068,EUROLINE DE GmbH
+168,Im Gewerbepark,C25,Regensburg,93059,49.02988871270774,12.124867075033068,Clive GmbH
+169,Im Gewerbepark,C25,Regensburg,93059,49.02988871270774,12.124867075033068,Office Centre F18 Verwaltungs GmbH
+170,Weinweg,55,Regensburg,93049,49.02759262008957,12.060047720005045,Heart Chor e.V.
+171,Weinweg,53,Regensburg,93049,49.02758322010269,12.06101048001533,arsvidendi.com GmbH
+172,Clermont-Ferrand-Allee,36,Regensburg,93049,49.02398700022782,12.063574599903651,Samadia GmbH + Co. KG
+173,Clermont-Ferrand-Allee,36,Regensburg,93049,49.02398700022782,12.063574599903651,PS Verwaltungs UG (haftungsbeschränkt)
+174,Clermont-Ferrand-Allee,36,Regensburg,93049,49.02398700022782,12.063574599903651,PLANA Solar GmbH + Co. KG
+175,Clermont-Ferrand-Allee,36,Regensburg,93049,49.02398700022782,12.063574599903651,RIS Sportreisen GmbH
+176,Clermont-Ferrand-Allee,36,Regensburg,93049,49.02398700022782,12.063574599903651,rtech engineering UG (haftungsbeschränkt)
+177,Clermont-Ferrand-Allee,36,Regensburg,93049,49.02398700022782,12.063574599903651,ConXL e.K.
+178,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,Unicando GmbH
+179,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,Heicando Verwaltungs GmbH
+180,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,ALEGRO GmbH Wirtschaftsprüfungsgesellschaft
+181,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,Werkmann Hien Gitschel GmbH + Co. KG Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft
+182,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,Sonnenkraft Deutschland GmbH
+183,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,Heicando GmbH + Co. KG
+184,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,Horsycla e.K.
+185,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,GEVAS Newcomer GmbH
+186,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,GEVAS Gesellschaft für Vermögensaufbau und Sicherung mbH
+187,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,GeVaS Gesellschaft für Vermögensaufbau und Sicherung AG
+188,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,GeVaS AG
+189,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,EHS Steuerberatungsgesellschaft mbH
+190,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,WHG Treuhand GmbH
+191,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,EHS Beteiligungs GmbH
+192,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,DGP Service GmbH
+193,Clermont-Ferrand-Allee,34,Regensburg,93049,49.02416420037072,12.064196332844608,Sancando GmbH
+194,Hochweg,89,Regensburg,93049,49.02037412229925,12.06351065567428,TCS Oberreuther AG
+195,Hochweg,89,Regensburg,93049,49.02037412229925,12.06351065567428,Paulin Werkstätten GmbH + Co. KG
+196,Hochweg,89,Regensburg,93049,49.02037412229925,12.06351065567428,Paulin Werkstätten Verwaltungs GmbH
+197,Hochweg,89,Regensburg,93049,49.02037412229925,12.06351065567428,Bright-Light-Solutions GmbH
+198,Franz-von-Taxis-Ring,53,Regensburg,93049,49.01328049110891,12.051952223447064,Buchhandlung Bücherwurm GmbH
+199,Franz-von-Taxis-Ring,26,Regensburg,93049,49.01565742501753,12.05264652500038,Ona Vermögensverwaltung GmbH
+200,Widmannweg,10,Regensburg,93049,49.01583707503919,12.049552350001235,FSFO GmbH + Co. KG
+201,Widmannweg,10,Regensburg,93049,49.01583707503919,12.049552350001235,RS Management GmbH
+202,Rathausplatz,1,Regensburg,93047,49.02043434519709,12.094729579967826,Regensburg Tourismus GmbH
+203,Rennweg,22,Regensburg,93049,49.01330676671172,12.043501866670953,Alexandra Verwaltungs GmbH
+204,Schützenheimweg,21,Regensburg,93049,49.01549227504818,12.042900600001346,Bonifatius-Apotheke Maria Altendorfer e.K.
+205,Roter-Brach-Weg,23,Regensburg,93049,49.0141544000376,12.040361575003342,H.A.S.E. Dienstleistungsgesellschaft mbH
+206,Roter-Brach-Weg,41,Regensburg,93049,49.01569140001536,12.040505199998732,Gartengestaltung Steindl GmbH
+207,Biersackgasse,1,Regensburg,93049,49.0109018250813,12.032622687478344,Dr. Rieger GmbH + Co. KG
+208,Biersackgasse,1,Regensburg,93049,49.0109018250813,12.032622687478344,Dr. Rieger Grundstücksverwaltungs-GmbH
+209,Fährenweg,12,Regensburg,93049,49.009165250057805,12.035981374934993,Stich Versicherungsmakler GmbH
+210,An der Brunnstube,25,Regensburg,93051,49.01051897503467,12.050517075005388,Consulta UG (haftungsbeschränkt)
+211,An der Brunnstube,2,Regensburg,93051,49.00982117509308,12.055796500092264,Retrobrothers Beteiligungs-GmbH
+212,An der Brunnstube,2,Regensburg,93051,49.00982117509308,12.055796500092264,Retrobrothers GmbH + Co. KG
+213,An der Brunnstube,2,Regensburg,93051,49.00982117509308,12.055796500092264,RCI Real Concept Immobilien Geschäftsführungs GmbH
+214,An der Brunnstube,26,Regensburg,93051,49.01108518339053,12.050327600033524,Genussmittelgrosshandel Richard Schrepfer - Inhaber: Richard Schrepfer jun.
+215,An der Brunnstube,9 a,Regensburg,93051,49.00963017503581,12.053772200010346,Iktuo Regensburg 100 GmbH
+216,An der Brunnstube,9 a,Regensburg,93051,49.00963017503581,12.053772200010346,MLW Communications GmbH
+217,Auf der Platte,6,Regensburg,93051,49.00855125011152,12.052227299999728,Valouris GmbH
+218,Liebermannweg,9,Regensburg,93051,49.01020102503959,12.074575450001802,Vermögensverwaltungs- und Verpachtungs-GmbH + Co. KG Reiss
+219,Liebermannweg,9,Regensburg,93051,49.01020102503959,12.074575450001802,Verwaltungs-GmbH Reiss
+220,Macheinerweg,63,Regensburg,93051,49.00495357501197,12.072939249990345,Max Feuerer GmbH Bedachungen aller Art
+221,Königswiesenweg,13,Regensburg,93051,49.00876067504007,12.07949065005804,A. Nothhaft Endlosdruck GmbH
+222,Hafnersteig,10,Regensburg,93051,49.008641100013975,12.080669075005112,Fuhrmann Grundstücks GmbH + Co. KG
+223,Hafnersteig,10,Regensburg,93051,49.008641100013975,12.080669075005112,Fuhrmann Geschäftsführung GmbH
+224,Rennweg,1,Regensburg,93049,49.012798907227264,12.05501039988365,Regensburger Vermögensverwaltungs-AG
+225,Güntherweg,1,Regensburg,93051,49.00609551668524,12.076910316664469,Schalltechnik SÜD + NORD GmbH
+226,Königswiesenweg,29,Regensburg,93051,49.00689612503566,12.075577650035695,Betco M GmbH
+227,Königswiesenweg,29,Regensburg,93051,49.00689612503566,12.075577650035695,PrioA GmbH
+228,Königswiesenweg,29,Regensburg,93051,49.00689612503566,12.075577650035695,Solenova GmbH
+229,Güntherweg,3,Regensburg,93051,49.00597657501918,12.076728699998895,D + S Denkmalschutz und Sachwert Vertriebs GmbH
+230,Güntherweg,3,Regensburg,93051,49.00597657501918,12.076728699998895,D + S Denkmalschutz + Sachwert Vertriebs GmbH
+231,Königswiesenweg,35,Regensburg,93051,49.00627480002984,12.074949450010672,Seidl ENSOTEC GmbH
+232,Neuprüll,5,Regensburg,93051,48.991753787730765,12.088205900086969,Alideo Global Solutions Ltd.
+233,Bismarckplatz,7,Regensburg,93047,49.01929291471858,12.089719957129637,Six Sigma Gastronomie- und Veranstaltungs-GmbH
+234,Theodor-Heuss-Platz,4,Regensburg,93051,48.998007400135926,12.069393024963146,Geburtshaus Regensburg GmbH
+235,Pfauengasse,10,Regensburg,93047,49.01795957503405,12.097562833368606,St. Emmeram-Hofapotheke Dr. Ingrid Aumüller
+236,Stahlzwingerweg,9,Regensburg,93047,49.01945182502402,12.086080599983044,Dr. Mayer + Söhne GmbH + Co. KG
+237,Stahlzwingerweg,9,Regensburg,93047,49.01945182502402,12.086080599983044,Galvamedix GmbH
+238,Stahlzwingerweg,23,Regensburg,93047,49.0206011251428,12.083751275337226,Isaria Grundstücksverwaltungs- und Beteiligungsgesellschaft mbH
+239,Hochweg,1,Regensburg,93049,49.0205841501751,12.079753000062253,Wohn- und Industriebau Wirth GmbH + Co. KG
+240,Hochweg,1,Regensburg,93049,49.0205841501751,12.079753000062253,Johann L.L. Brandner AG
+241,Hochweg,1,Regensburg,93049,49.0205841501751,12.079753000062253,Wohn- + Industriebau Wirth GmbH + Co. KG
+242,Stahlzwingerweg,7,Regensburg,93047,49.0194062750282,12.086339775010012,Ice Business GmbH mobile Kunsteisbahnen
+243,Stahlzwingerweg,7,Regensburg,93047,49.0194062750282,12.086339775010012,Ice Business UG (haftungsbeschränkt) Professional ice-rinks
+244,Stahlzwingerweg,7,Regensburg,93047,49.0194062750282,12.086339775010012,Ice Business UG (haftungsbeschränkt)
+245,Bismarckplatz,5,Regensburg,93047,49.01888156926646,12.089207830757308,RÄ Verwaltungs GmbH
+246,Bismarckplatz,5,Regensburg,93047,49.01888156926646,12.089207830757308,GPN Gesund Plus Netzwerk GmbH
+247,Bismarckplatz,5,Regensburg,93047,49.01888156926646,12.089207830757308,RÄ-Card GmbH + Co. KG
+248,Bismarckplatz,5,Regensburg,93047,49.01888156926646,12.089207830757308,Studio Gong GmbH AV -Produktionsgesellschaft + Co. Betriebs-KG
+249,Am Prebrunntor,4,Regensburg,93047,49.0221757429456,12.08288697153359,Freunde + Förderer des Naturkunde-Museums Ostbayern e.V.
+250,Haaggasse,16,Regensburg,93047,49.020698525024784,12.087079974995415,Forum Regensburg
+251,Wollwirkergasse,13,Regensburg,93047,49.02031348003663,12.08778971997783,Dollmanns Verwaltungs GmbH
+252,Schopperplatz,3,Regensburg,93059,49.02382258752864,12.087426737524776,Saltimbocca UG (haftungsbeschränkt)
+253,Schopperplatz,3,Regensburg,93059,49.02382258752864,12.087426737524776,RUBEL Corporate Design GmbH
+254,Schopperplatz,4,Regensburg,93059,49.023812075022384,12.087814899992557,Regensburger Ruder- und Tennis-Klub von 1890 e.V. (RRTK)
+255,Ägidienplatz,7,Regensburg,93047,49.01693071254826,12.089903712485135,Biber Energie GmbH
+256,Ägidienplatz,7,Regensburg,93047,49.01693071254826,12.089903712485135,"Hannke Bittner + Partner, Patent- und Rechtsanwälte"
+257,Viereimergasse,1,Regensburg,93047,49.017007309126505,12.09797399099098,Friseur Wagmüller GmbH
+258,Am Pfaffensteiner Hang,37,Regensburg,93059,49.03018910002404,12.086118675000256,MS Fachmarkt Pfarrkirchen GmbH
+259,Am Pfaffensteiner Hang,37,Regensburg,93059,49.03018910002404,12.086118675000256,MS Vermögensverwaltungs GmbH
+260,Am Pfaffensteiner Hang,54,Regensburg,93059,49.0306794500591,12.084425766644484,Krause GmbH
+261,Am Pfaffensteiner Hang,54,Regensburg,93059,49.0306794500591,12.084425766644484,TOIFOR GmbH
+262,Am Römling,1,Regensburg,93047,49.02054967505674,12.092012549996271,Er und Er UG (haftungsbeschränkt)
+263,Weingasse,8,Regensburg,93047,49.02033656005317,12.092698039957238,DrugStop Drogenhilfe Regensburg e.V.
+264,Am Römling,7,Regensburg,93047,49.02012678336418,12.09196279999694,MIETERBUND REGENSBURG e.V.
+265,Fischmarkt,8,Regensburg,93047,49.020855460089976,12.09518577998268,Mondo Reisen GmbH
+266,Salzburger Gasse,1,Regensburg,93047,49.01839223753242,12.09904018124993,PARKLOUNGE GASTRONOMIE GmbH
+267,Salzburger Gasse,1,Regensburg,93047,49.01839223753242,12.09904018124993,Private Wirtschaftsschule Breitschaft
+268,Salzburger Gasse,1,Regensburg,93047,49.01839223753242,12.09904018124993,An den Klostergründen Projektentwicklung GmbH
+269,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Falk Gebhardt UG (haftungsbeschränkt)
+270,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Smilingbits Verwaltungs GmbH
+271,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,ShortWin+Probenking Verwaltungs GmbH
+272,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,ShortNews GmbH + Co. KG
+273,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,ShortBooks GmbH + Co. KG
+274,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Catwalk GmbH
+275,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Amicada GmbH + Co. KG
+276,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Smilingbits GmbH + Co. KG
+277,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,GoNamic GmbH + Co. KG
+278,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,GBM Gastronomie GmbH
+279,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,UseNeXT Verwaltungs GmbH
+280,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,TwinPlan Verwaltungs GmbH
+281,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Amicada Verwaltungs GmbH
+282,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,TwinPlan GmbH + Co. KG
+283,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Atendas Verwaltungs GmbH
+284,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,IDFAB Ltd.
+285,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,GoNamic Verwaltungs GmbH
+286,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,owayo GmbH
+287,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Mihalovits Ltd.
+288,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,LIFT Technik SUED UG (haftungsbeschränkt)
+289,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,ShortNews Verwaltungs GmbH
+290,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,dreamfab GmbH + Co. KG
+291,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,OGPV KG
+292,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,UseNeXT GmbH + Co. KG
+293,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,ShortBooks Verwaltungs GmbH
+294,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Ballboa GmbH
+295,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Apireon GmbH
+296,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,GoNamic GmbH
+297,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Gastronomie am Dom GmbH
+298,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Gastronomie am Dom GmbH + Co. Betriebs-KG
+299,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,ShortNews.com V-Invest GmbH
+300,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Omniga Verwaltungs GmbH
+301,Domplatz,3,Regensburg,93047,49.01882888233314,12.098638012042274,Pro Gastro GmbH
+302,Kapellengasse,6,Regensburg,93047,49.01812548894721,12.099336699984878,Teehaus Bachfischer Versand KG
+303,Kapellengasse,6,Regensburg,93047,49.01812548894721,12.099336699984878,Teehaus Bachfischer Gastronomie Betrieb Johann Bachfischer KG
+304,Kapellengasse,6,Regensburg,93047,49.01812548894721,12.099336699984878,Teehaus Dagmar Bachfischer KG
+305,Kapellengasse,6,Regensburg,93047,49.01812548894721,12.099336699984878,Johann Bachfischer Handels- + Verwaltungs KG
+306,Am Hochbehälter,1,Regensburg,93059,49.03115556255127,12.090704562496963,hemdwerk UG (haftungsbeschränkt)
+307,Steinweg,11,Regensburg,93059,49.027597450213655,12.09621330003938,APR GmbH
+308,Am Dreifaltigkeitsberg,9,Regensburg,93059,49.0310374437735,12.092850480076796,Sigma Makler Service GmbH
+309,Haidplatz,6,Regensburg,93047,49.019802850010535,12.092138774999894,C + F Industriebedarf - Vertriebsgesellschaft mbH
+310,Konrad-Adenauer-Allee,7,Regensburg,93051,48.99987847501758,12.074732650035209,Doll Verwaltungs-GmbH
+311,Konrad-Adenauer-Allee,7,Regensburg,93051,48.99987847501758,12.074732650035209,DKW: Catering + Menü-Service GmbH + Co. KG
+312,Fidelgasse,13,Regensburg,93047,49.020434875034816,12.088696150001834,wp-soft GmbH
+313,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Haus der Gesundheit Neutraubling GmbH + Co. KG
+314,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Dr. Schmid Immobilien GmbH
+315,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Va Bene - Gaststätten GmbH + Co. KG
+316,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Hans Stockerl Hausbau GmbH
+317,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Bund der Diplominhaber der Verwaltungs- + Wirtschaftsakademien Ostbayern e.V.
+318,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Altstadtbau GmbH + Co. KG
+319,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Wienerwald Regensburg GmbH
+320,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Haus der Gesundheit Neutraubling Verwaltungs-GmbH
+321,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Schmid und Kollegen GmbH + Co. KG
+322,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Altstadtbau Verwaltungs - GmbH
+323,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Haus der Gesundheit Kelheim GmbH + Co. KG
+324,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Hans Stockerl Immobilien GmbH
+325,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Verwaltungs- + Wirtschafts-Akademie Ostbayern e.V.
+326,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,OGZ-Gesundheitszentren GmbH + Co. KG
+327,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Neustadtbau GmbH
+328,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Schmid + Kollegen Verwaltungs-GmbH
+329,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Haus der Gesundheit Beteiligungs GmbH
+330,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,OGZ-Gesundheitszentren Verwaltungs-GmbH
+331,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,DSVW GmbH + Co. KG
+332,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,DSVW Verwaltungs-GmbH
+333,Arnulfsplatz,4,Regensburg,93047,49.01980951677991,12.089037166693837,Haus der Gesundheit GmbH + Co. KG
+334,Arnulfsplatz,5,Regensburg,93047,49.01991882511622,12.089058525018448,Johann Allkofer oHG
+335,Arnulfsplatz,3,Regensburg,93047,49.01972358037571,12.088841840118333,Reichinger Gastro GmbH
+336,Arnulfsplatz,7,Regensburg,93047,49.02014401676263,12.089091200029907,360 Grad Studio OHG
+337,Arnulfsplatz,6,Regensburg,93047,49.02004062510643,12.089075500012424,GALILEO GmbH
+338,Arnulfsplatz,6,Regensburg,93047,49.02004062510643,12.089075500012424,Theatercafe Regensburg GmbH
+339,Stadtamhof,3,Regensburg,93059,49.024738014492215,12.096708449961662,Optik Friedrich GmbH + Co. KG
+340,Stadtamhof,3,Regensburg,93059,49.024738014492215,12.096708449961662,Friedrich Verwaltungs GmbH
+341,Stadtamhof,3,Regensburg,93059,49.0247320200482,12.09709003999973,Optik Friedrich GmbH + Co. KG
+342,Stadtamhof,3,Regensburg,93059,49.0247320200482,12.09709003999973,Friedrich Verwaltungs GmbH
+343,An der Schierstadt,2,Regensburg,93059,49.02532874025774,12.096779980043983,Regensburger Auktionshaus - Inhaber: Bianca Rackl e.K.
+344,Stadtamhof,13,Regensburg,93059,49.025568233397706,12.096939899994611,MEDICAL DEVICE PARTNERS GmbH
+345,Stadtamhof,13,Regensburg,93059,49.025568233397706,12.096939899994611,Klappe Gastronomie eG
+346,Fidelgasse,8,Regensburg,93047,49.02069416672319,12.088413433336507,INSIGNE KG
+347,Wollwirkergasse,4,Regensburg,93047,49.02046545001134,12.088208150001726,Zahnwerkstatt Regensburg GmbH
+348,Stadtamhof,4,Regensburg,93059,49.02496022504809,12.09760107500218,Allianz Büro Bierschneider Georg Bierschneider e.K.
+349,Stadtamhof,4,Regensburg,93059,49.02496022504809,12.09760107500218,Gardinen Alfred Ulrich
+350,Stadtamhof,4,Regensburg,93059,49.02496022504809,12.09760107500218,Johann Nep. Herrmann
+351,Stadtamhof,26,Regensburg,93059,49.026101525046975,12.097465024990182,Karl Steinmeyer GmbH
+352,Stadtamhof,14,Regensburg,93059,49.02548392007411,12.097621899997934,Marien-Apotheke Alban Lutz - Inhaber: Karl-Heinz Prischenk
+353,Stadtamhof,18,Regensburg,93059,49.025705300062846,12.097557299997357,Bayerische Grundbesitz SL UG (haftungsbeschränkt)
+354,Stadtamhof,18,Regensburg,93059,49.025705300062846,12.097557299997357,Degania Silicone Europe GmbH
+355,Stadtamhof,8,Regensburg,93059,49.025208950060254,12.09760442499514,SLI GmbH Grundbesitzverwertung
+356,Stadtamhof,8,Regensburg,93059,49.025208950060254,12.09760442499514,Prisma Augenoptik GmbH
+357,Stadtamhof,8,Regensburg,93059,49.025208950060254,12.09760442499514,Donauanlieger e.V.
+358,Stadtamhof,8,Regensburg,93059,49.025208950060254,12.09760442499514,RCI Real Concept Immobilien GmbH + Co. KG
+359,Stadtamhof,8,Regensburg,93059,49.025208950060254,12.09760442499514,GB Wohnanlagen Service GmbH
+360,Zur Schönen Gelegenheit,10,Regensburg,93047,49.020650640075246,12.089518139997546,Urbana Wohnbaugesellschaft mbH
+361,Zur Schönen Gelegenheit,8,Regensburg,93047,49.02079928338548,12.089569016638082,CHENCO Chemical Engineering and Consulting GmbH
+362,Zur Schönen Gelegenheit,8,Regensburg,93047,49.02079928338548,12.089569016638082,CHENCO Chemical Engineering + Consulting GmbH
+363,Engelburgergasse,12,Regensburg,93047,49.02089115005319,12.090900183354124,Pegasfilm s.r.o.
+364,Engelburgergasse,16,Regensburg,93047,49.02074254004374,12.090838400013157,Tierschutzverein Regensburg und Umgebung e.V.
+365,Engelburgergasse,1,Regensburg,93047,49.02138991671229,12.091350833337245,Taekwondo Gemeinschaft Regensburg gemeinnützige UG (haftungsbeschränkt)
+366,Metgebergasse,2,Regensburg,93047,49.02131995559822,12.09169700002592,Carlito´s Azzam Yassier e.K.
+367,Metgebergasse,4,Regensburg,93047,49.021051666722016,12.091614150027006,Siegfried Mühlbauer und Partner Restaurierungs-GmbH
+368,Trothengasse,5,Regensburg,93047,49.01876480002771,12.10309457501687,ihreseoagentur.de GmbH
+369,Trothengasse,5,Regensburg,93047,49.01876480002771,12.10309457501687,505 Games GmbH
+370,Trothengasse,5,Regensburg,93047,49.01876480002771,12.10309457501687,CMV Unternehmensberatung GmbH
+371,Trothengasse,5,Regensburg,93047,49.01876480002771,12.10309457501687,Software 7 GmbH
+372,Trothengasse,5,Regensburg,93047,49.01876480002771,12.10309457501687,Projekt 29 Verwaltungsgesellschaft mbH
+373,Trothengasse,5,Regensburg,93047,49.01876480002771,12.10309457501687,Projekt 29 GmbH + Co. KG
+374,Am Schulbergl,7,Regensburg,93047,49.02009748337954,12.090526583332991,Freundeskreis der Krabbelstube der Regensburger Eltern e.V.
+375,Am Römling,12,Regensburg,93047,49.02005075003632,12.09166709999389,Max-Hafner - Verein der Regensburger Marianer des Deutschen Ordens e.V.
+376,Am Römling,12,Regensburg,93047,49.02005075003632,12.09166709999389,AQUINO GMBH Gastronomische Betriebe
+377,Am Römling,6,Regensburg,93047,49.0203466750631,12.091675125004954,Blochberger + Weiss GmbH
+378,Am Römling,10,Regensburg,93047,49.02018220007066,12.091624200006168,Attigence GmbH
+379,Engelburgergasse,23,Regensburg,93047,49.02000607780023,12.091098299937595,Chaim Lustanowski Schuheinzelhandel
+380,Am Römling,14,Regensburg,93047,49.01985440003198,12.091648649982192,IVC Interessenverband für Verbraucher und Computerfreunde e.V.
+381,Am Römling,14,Regensburg,93047,49.01985440003198,12.091648649982192,Lohnsteuerhilfeverein Oberpfalz e.V.
+382,Am Römling,8,Regensburg,93047,49.02028308007668,12.091625020021926,Förderverein für die Natürlichen Heilweisen des Ayurveda e.V.
+383,Winklergasse,2,Regensburg,93047,49.0213652333668,12.088135916660583,Nigeno AG
+384,Ostengasse,27,Regensburg,93047,49.019108395535085,12.105540322802044,Kath. Akademie für Berufe im Gesundheits- + Sozialwesen in Bayern e.V.
+385,Arnulfsplatz,1,Regensburg,93047,49.01970856002754,12.089932740005173,Share Ware GmbH + Co. KG
+386,Arnulfsplatz,1,Regensburg,93047,49.01970856002754,12.089932740005173,Exchange Verwaltungs GmbH
+387,Weingasse,1,Regensburg,93047,49.02058796669476,12.092958749998504,Verein zur Förderung des Stadtjugendrings Regensburg e.V.
+388,Theodor-Heuss-Platz,8,Regensburg,93051,48.99797338756135,12.06872785011979,Walter Sörgel B+S Bauelemente
+389,Theodor-Heuss-Platz,8,Regensburg,93051,48.99797338756135,12.06872785011979,Daalog Frachtenlogistik GmbH
+390,Theodor-Heuss-Platz,8,Regensburg,93051,48.99797338756135,12.06872785011979,Technoco Anlagen- + Industriemontagen GmbH
+391,Theodor-Heuss-Platz,8,Regensburg,93051,48.99797338756135,12.06872785011979,B + S Projektentwicklungsgesellschaft mbH
+392,Weingasse,4,Regensburg,93047,49.02065316672601,12.092636166662142,it.medic AG
+393,Zandtengasse,2,Regensburg,93047,49.02093210004991,12.09268077503352,Nachbarschaftsladen für Frauen e.V.
+394,Neue-Waag-Gasse,1,Regensburg,93047,49.01980922868922,12.094054600002975,Kerzen Elsässer e.K.
+395,Neue-Waag-Gasse,1,Regensburg,93047,49.01980922868922,12.094054600002975,S. Elsässer Nachf.
+396,Rote-Hahnen-Gasse,1,Regensburg,93047,49.01916600001368,12.093428479982606,Der natürliche Schuhladen in der Roten Hahnengasse GmbH
+397,Rote-Hahnen-Gasse,3,Regensburg,93047,49.019107725025336,12.093535124998704,Sport-Schrott GmbH
+398,Haidplatz,2,Regensburg,93047,49.01936520004028,12.093317487471582,Wolf Lesen und Lernen Fachbuchhandlung und Lehrmittelhaus GmbH
+399,Haidplatz,3,Regensburg,93047,49.01944439095256,12.093054181828675,the Thai GmbH
+400,Haidplatz,3,Regensburg,93047,49.01944439095256,12.093054181828675,Die Genuss-Galerie GmbH
+401,Haidplatz,3,Regensburg,93047,49.01944439095256,12.093054181828675,Reisestudio am Haidplatz GmbH
+402,Kohlenmarkt,2,Regensburg,93047,49.02041007500895,12.095500774998284,Juwelier Riebel GmbH
+403,Blaue-Lilien-Gasse,8,Regensburg,93047,49.02045460003353,12.095650999975003,"Max Eckert - Inhaber: Alois Brügl, Nachfolger Günter Wolf"
+404,Blaue-Lilien-Gasse,4,Regensburg,93047,49.0207772666932,12.095664616683235,Aegaeon Technologies GmbH
+405,An der Irler Höhe,17,Regensburg,93055,49.0100207128669,12.137496412760076,Omnibusverkehr Laschinger e.K.
+406,An der Irler Höhe,8 a,Regensburg,93055,49.01095340010536,12.131600999983013,MB Kompressoren + Drucklufttechnik GmbH
+407,Schelmengraben,8,Regensburg,93059,49.03051935004292,12.091781683325433,Streamline Multimedia e.K.
+408,Steinweg,20,Regensburg,93059,49.02786650003517,12.096810100001017,Christliches Sozial- + Bildungswerk e.V.
+409,Auweg,23,Regensburg,93055,49.01664315015805,12.130919849849183,RMT Immobilien- + Verwaltungs-GmbH
+410,Auweg,13,Regensburg,93055,49.01668565006258,12.12814902495992,FM Verwaltungs GmbH
+411,Auweg,13,Regensburg,93055,49.01668565006258,12.12814902495992,Vinttec GmbH + Co. KG
+412,Auweg,13,Regensburg,93055,49.01668565006258,12.12814902495992,Frei GmbH Zerspanungstechnik
+413,Auweg,11 b,Regensburg,93055,49.01702927509148,12.126974500148254,Autolackiererei Baumer GmbH
+414,Auweg,11 b,Regensburg,93055,49.01702927509148,12.126974500148254,STB Block GmbH
+415,Auweg,11 b,Regensburg,93055,49.01702927509148,12.126974500148254,"G + R GmbH - Schreinerei, Innenausbau"
+416,Auweg,11 b,Regensburg,93055,49.01649257502307,12.1273192500014,Autolackiererei Baumer GmbH
+417,Auweg,11 b,Regensburg,93055,49.01649257502307,12.1273192500014,STB Block GmbH
+418,Auweg,11 b,Regensburg,93055,49.01649257502307,12.1273192500014,"G + R GmbH - Schreinerei, Innenausbau"
+419,An der Irler Höhe,3 a,Regensburg,93055,49.01147029240458,12.132657938614969,DONAUER SOLAR Projects GmbH
+420,Auweg,22,Regensburg,93055,49.01613806750907,12.125744616597808,Scheidacker Umzüge GmbH
+421,Auweg,22,Regensburg,93055,49.01613806750907,12.125744616597808,F.X. Schöberl Abschlepptechnik e.K.
+422,Auweg,22,Regensburg,93055,49.01615505002641,12.126442500001149,Scheidacker Umzüge GmbH
+423,Auweg,22,Regensburg,93055,49.01615505002641,12.126442500001149,F.X. Schöberl Abschlepptechnik e.K.
+424,Auweg,1,Regensburg,93055,49.01642413794479,12.12362539998964,Der Reifenprofi Heimgärtner GmbH
+425,Auweg,1,Regensburg,93055,49.01642413794479,12.12362539998964,Der Reifenprofi Völkl GmbH
+426,Rathausplatz,2,Regensburg,93047,49.02005695001222,12.094894816657536,PRINZESS Giebelen KG
+427,Rathausplatz,3,Regensburg,93047,49.0199475167049,12.094742533300945,FORUM TOURISMUS REGENSBURG e.V.
+428,Untere Bachgasse,4,Regensburg,93047,49.01958990015932,12.094692783318903,Design - Optic Müller + Eichinger oHG
+429,Hinter der Grieb,4,Regensburg,93047,49.01920635001284,12.094490866649917,Pulli Bender e.K.
+430,Hinter der Grieb,4,Regensburg,93047,49.01920635001284,12.094490866649917,Six Sigma Gastronomie- + Veranstaltungsgesellschaft mbH
+431,Hinter der Grieb,2,Regensburg,93047,49.01916807512022,12.094704849963714,"Wein, Olive + mehr - Inhaber: Andreas Henneberger e.K."
+432,Hinter der Grieb,2,Regensburg,93047,49.01916807512022,12.094704849963714,Blochberger + Weiss Lichtkreationen GmbH
+433,Hinter der Grieb,6,Regensburg,93047,49.01916800001607,12.094374124996456,RCR Unternehmensberatungsgesellschaft mbH
+434,Hinter der Grieb,10,Regensburg,93047,49.01919400007137,12.093754655543206,Spedition Kurt Schnagl GmbH
+435,Hinter der Grieb,10,Regensburg,93047,49.01919400007137,12.093754655543206,GRAVENREUTHER GASTRO GmbH
+436,Krebsgasse,2,Regensburg,93047,49.01956166673056,12.092270033317996,fuhrmann Wohnen + Einrichten GmbH
+437,Krebsgasse,2,Regensburg,93047,49.01956166673056,12.092270033317996,Reisebüro Heribert Schmid oHG
+438,Steinergasse,4,Regensburg,93047,49.01903152504519,12.091734224985013,nachtigall Betriebs UG (haftungsbeschränkt)
+439,Steinergasse,4,Regensburg,93047,49.01903152504519,12.091734224985013,Goldstein Vermögensverwaltungs-GmbH
+440,Glockengasse,1,Regensburg,93047,49.019474833416425,12.092023977645644,Jugendwerkstatt Regensburg e.V.
+441,Glockengasse,1,Regensburg,93047,49.019474833416425,12.092023977645644,Venezia M. Tomasella e.K.
+442,Glockengasse,1,Regensburg,93047,49.019474833416425,12.092023977645644,Venezia M. Tomasella KG
+443,Krebsgasse,6,Regensburg,93047,49.01931165559393,12.092193766617546,Mosh Collective eG
+444,Krebsgasse,6,Regensburg,93047,49.01931165559393,12.092193766617546,Krebs-Gastro Betriebs GmbH
+445,Krebsgasse,1,Regensburg,93047,49.01949755001775,12.092521166625447,ATTACTION Verwaltungs GmbH
+446,Krebsgasse,1,Regensburg,93047,49.01949755001775,12.092521166625447,Attaction GmbH + Co. Production KG
+447,Krebsgasse,1,Regensburg,93047,49.01949755001775,12.092521166625447,MC PATENT AG
+448,Rote-Hahnen-Gasse,6,Regensburg,93047,49.01903848003412,12.093190139943404,Regensburger Fremdsprachenschule e.V.
+449,Rote-Hahnen-Gasse,6,Regensburg,93047,49.01903848003412,12.093190139943404,Gemeinnütziger Zeltlagerplatz- + Jugendheimverein e.V.
+450,Rote-Hahnen-Gasse,12,Regensburg,93047,49.01861952508104,12.093432875009023,Music College gGmbH
+451,Rote-Hahnen-Gasse,12,Regensburg,93047,49.01861952508104,12.093432875009023,BRISE GmbH
+452,Rote-Hahnen-Gasse,10,Regensburg,93047,49.01881464293969,12.093377100010208,Rieger Berri Boutique Rote Hahnengasse oHG
+453,Rote-Hahnen-Gasse,8,Regensburg,93047,49.01896652506032,12.093277874929504,Residenz-Apotheke - Inhaber: Wolfgang Schmucker
+454,Rote-Hahnen-Gasse,2,Regensburg,93047,49.01930385267069,12.09264303153131,FEE Immobilien + Management UG (haftungsbeschränkt)
+455,Irlmauth,3,Regensburg,93055,49.01117610013161,12.159512100100292,Altmetalle Ost - Inhaber: Arben Ibrahimi e.K.
+456,Am Kreuzhof,5 a,Regensburg,93055,49.00771946863273,12.177033403331809,Getränke Service Regensburg GmbH
+457,Irl,11,Regensburg,93055,49.00372880387408,12.167299828756043,Gasthof-Hotel-Restaurant-Fleischerei Richard Held OHG
+458,An der Schierstadt,3,Regensburg,93059,49.02513205558511,12.096693266666056,STURM GMBH
+459,An der Schierstadt,3,Regensburg,93059,49.02513205558511,12.096693266666056,JOST GmbH
+460,Am Protzenweiher,7,Regensburg,93059,49.0260031800371,12.096417779983838,Zweirad-Ehrl GmbH
+461,Wassergasse,3,Regensburg,93059,49.02426666004404,12.09783365998044,KSW Engineering Consultants UG (haftungsbeschränkt)
+462,Drehergasse,19,Regensburg,93059,49.02889735008696,12.098932299934203,Baumann GmbH + Co. KG Zubehör für die Strahlentherapie
+463,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Iliotec Projekt Weiden Management GmbH
+464,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Management Solarrente 2 GmbH
+465,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Management Solarrente 1 GmbH
+466,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Management Immobilienrente 1 UG (haftungsbeschränkt)
+467,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Management Solarrente 4 GmbH
+468,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Management Solarrente 3 GmbH
+469,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Management Solarpark Oberhinkofen GmbH
+470,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Invest Solarrente 5 GmbH + Co. KG
+471,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Invest Solarrente 4 GmbH + Co. KG
+472,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Invest Solarpark Oberhinkofen GmbH + Co. KG
+473,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,THOREAL Vermögensverwaltung GmbH
+474,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Management Neumarkt GmbH
+475,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Management Ergoldsbach GmbH
+476,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Invest Solarrente 3 GmbH + Co. KG
+477,Drehergasse,20,Regensburg,93059,49.02882242502809,12.099477950000274,Eco Invest Immobilienrente 1 UG (haftungsbeschränkt) + Co. KG
+478,Brauergasse,4,Regensburg,93059,49.02924235002527,12.099795049988384,Schierinvest - Verwaltungsgesellschaft mbH
+479,Brauergasse,4,Regensburg,93059,49.02924235002527,12.099795049988384,Schierinvest GmbH + Co. KG
+480,Am Holzhof,1,Regensburg,93059,49.03197407508325,12.099405787627918,Sportgemeinschaft Walhalla e.V.
+481,Badener Weg,26,Regensburg,93059,49.03771866671026,12.092627350006875,BVK Wohnbau GmbH
+482,Schwabelweiser Weg,42,Regensburg,93059,49.02311350776048,12.121526007681895,Förderverein des SV Burgweinting e.V.
+483,Watmarkt,9,Regensburg,93047,49.020130616697664,12.097131033310143,"Adler-Apotheke, Veronika Kern e.K."
+484,Watmarkt,1,Regensburg,93047,49.02019508004791,12.0960988200528,Seimani GmbH
+485,Watmarkt,1,Regensburg,93047,49.02019508004791,12.0960988200528,PRODENS32 Dr. Karl-Heinz Schwarz + ZÄ Veronika Walter Zahnärzte Partnerschaftsgesellschaft
+486,Watmarkt,1,Regensburg,93047,49.02019508004791,12.0960988200528,Herbert Lehner Gerüstbau GmbH
+487,Watmarkt,1,Regensburg,93047,49.02019508004791,12.0960988200528,TIP Personalconsulting GmbH
+488,Watmarkt,5,Regensburg,93047,49.02008390013246,12.096565200006838,TR Cafebetriebe GmbH
+489,Watmarkt,5,Regensburg,93047,49.02008390013246,12.096565200006838,Premium Textiles GmbH
+490,Watmarkt,5,Regensburg,93047,49.02008390013246,12.096565200006838,crowdshop UG (haftungsbeschränkt)
+491,Watmarkt,7,Regensburg,93047,49.02013932003792,12.096815260004515,Brauerei- + Industrieleasing Deutscher KG
+492,Kramgasse,5,Regensburg,93047,49.01985314288759,12.096660471418923,Karl Krammer - Inhaber: Ingeborg Götzfried
+493,Tändlergasse,11,Regensburg,93047,49.01902010003048,12.09608372499942,Peter Insam Antikhaus am Neupfarrplatz
+494,Tändlergasse,9,Regensburg,93047,49.01914708578583,12.09624588576836,Münchner Hof Karin Helmberger
+495,Domplatz,7,Regensburg,93047,49.01935811921807,12.09673643813391,Dombuchhandlung Regensburg - Inhaber: Josef Gailhofer
+496,Domplatz,7,Regensburg,93047,49.01935811921807,12.09673643813391,MAGENO GmbH
+497,Tändlergasse,7,Regensburg,93047,49.01932860008385,12.096303140013775,Münchner Hof Karin Helmberger OHG
+498,Tändlergasse,13,Regensburg,93047,49.01887430003689,12.09607450000223,"BFTS GmbH Beratung, Fortbildung, Training, Services"
+499,Kramgasse,8,Regensburg,93047,49.01961577501093,12.096620824999572,Regensburger Kramerey e.K.
+500,Krauterermarkt,3,Regensburg,93047,49.02009355270658,12.098155895021044,Bischofshof Am Dom GmbH
+501,Krauterermarkt,3,Regensburg,93047,49.02009355270658,12.098155895021044,Bischofshof Restaurant Betriebsgesellschaft mbH
+502,Krauterermarkt,3,Regensburg,93047,49.02009355270658,12.098155895021044,Huber Architekten GmbH
+503,Krauterermarkt,3,Regensburg,93047,49.01982270536988,12.098527889860424,Bischofshof Am Dom GmbH
+504,Krauterermarkt,3,Regensburg,93047,49.01982270536988,12.098527889860424,Bischofshof Restaurant Betriebsgesellschaft mbH
+505,Krauterermarkt,3,Regensburg,93047,49.01982270536988,12.098527889860424,Huber Architekten GmbH
+506,An der Schergenbreite,1,Regensburg,93059,49.02866076273075,12.129679000330633,sbi schicho ingenieure GmbH + Co. KG
+507,An der Schergenbreite,1,Regensburg,93059,49.02866076273075,12.129679000330633,Visu-IT! GmbH
+508,An der Schergenbreite,1,Regensburg,93059,49.02866076273075,12.129679000330633,Schicho Verwaltungs-GmbH
+509,An der Schergenbreite,1,Regensburg,93059,49.02866076273075,12.129679000330633,Bernhard Schicho e.K.
+510,An der Schergenbreite,1,Regensburg,93059,49.02866076273075,12.129679000330633,Donau Glas GmbH
+511,Bei der Anhalt,6,Regensburg,93059,49.0306831000262,12.133038025007076,Anja Robold UG (haftungsbeschränkt)
+512,Bei der Anhalt,6,Regensburg,93059,49.0306831000262,12.133038025007076,TR Dach- und Haustechnik e.K.
+513,Am Gern,4,Regensburg,93057,49.03872354294801,12.113356871427316,Kühne Industrie- Gewerbe- + Wohnungsbau GmbH
+514,Am Gern,4,Regensburg,93057,49.03872354294801,12.113356871427316,Wallner GmbH
+515,Danziger Freiheit,5,Regensburg,93057,49.04163862502092,12.129825050000838,Die Danz GmbH
+516,Im Reichen Winkel,9,Regensburg,93057,49.03898513335283,12.115856733325009,pro Regensburg e.V.
+517,Watmarkt,4,Regensburg,93047,49.01997200007198,12.09601193005292,A + R Sanitätshaus GmbH
+518,Tändlergasse,4,Regensburg,93047,49.01983140003117,12.0962005199984,AIS-Gesellschaft für Gesamtplanung mbH
+519,Tändlergasse,4,Regensburg,93047,49.01983140003117,12.0962005199984,TECTON Immobiliengesellschaft mbH
+520,Tändlergasse,4,Regensburg,93047,49.01983140003117,12.0962005199984,IVG-Immobilien-Verwaltungsgesellschaft mbH
+521,Erhardigasse,4,Regensburg,93047,49.0198080150745,12.101352759790563,FIDES Beteiligungs- + Verwaltungsgesellschaft mbH
+522,Pfluggasse,1,Regensburg,93047,49.01890866668486,12.100962449990044,Haus-Mohren-Apotheke Verwaltungs-GmbH
+523,Pfluggasse,1,Regensburg,93047,49.01890866668486,12.100962449990044,Haus-Mohren-Apotheke GmbH + Co. KG
+524,Pfluggasse,1,Regensburg,93047,49.01890866668486,12.100962449990044,Mohren-Apotheke Bärbel Brunn
+525,Speichergasse,3,Regensburg,93047,49.01835642863008,12.10079617147083,grafiniert UG (haftungsbeschränkt)
+526,Speichergasse,3,Regensburg,93047,49.01835642863008,12.10079617147083,meinsportplatz UG (haftungsbeschränkt)
+527,Pfarrergasse,1,Regensburg,93047,49.01792260003679,12.09629619997276,C.M. Schmitt GmbH + Co. KG Marc O´Polo
+528,Neupfarrplatz,10,Regensburg,93047,49.01783576015574,12.096675370064611,PS+P Bildungsgesellschaft mbH
+529,Neupfarrplatz,10,Regensburg,93047,49.01783576015574,12.096675370064611,PS+P Verlagsgesellschaft mbH + Co. KG
+530,Obere Bachgasse,1,Regensburg,93047,49.018213100047824,12.094995414277678,SAAR 2 GmbH
+531,Neupfarrplatz,15,Regensburg,93047,49.01802876669991,12.095511849927938,Raiffeisenbank Regensburg - Wenzenbach eG
+532,Pfarrergasse,2,Regensburg,93047,49.01771058342628,12.0958990832549,Kolomann von Rauchbauer e.K. Orientteppiche
+533,Pfarrergasse,2,Regensburg,93047,49.01771058342628,12.0958990832549,CAP Technologies GmbH
+534,Neupfarrplatz,16,Regensburg,93047,49.0181651857838,12.09526715720292,Letsch Veterinary Solutions GmbH
+535,Neupfarrplatz,16,Regensburg,93047,49.0181651857838,12.09526715720292,F.X.Miller GmbH
+536,Neupfarrplatz,16,Regensburg,93047,49.0181651857838,12.09526715720292,F.X. Miller GmbH + Co. Vermögensverwaltung KG
+537,Neupfarrplatz,16,Regensburg,93047,49.0181651857838,12.09526715720292,Franzis Baby - Kinder-Jugend-Moden Anna Schwan
+538,Neupfarrplatz,16,Regensburg,93047,49.0181651857838,12.09526715720292,rs media GmbH
+539,Neupfarrplatz,16,Regensburg,93047,49.0181651857838,12.09526715720292,MIBEG Gesellschaft für Wirtschaftsberatung mbH
+540,Neupfarrplatz,16,Regensburg,93047,49.0181651857838,12.09526715720292,doPanic GmbH
+541,Neupfarrplatz,2,Regensburg,93047,49.01848508337594,12.095561383343918,ROSSO by PS GmbH
+542,Neupfarrplatz,3,Regensburg,93047,49.01847464002774,12.09573854001576,Tabak Götz - Inhaber: Peter Götz
+543,Neupfarrplatz,5,Regensburg,93047,49.01868806001514,12.095805820006074,Josef Pleyer
+544,Domplatz,6,Regensburg,93047,49.01910030006404,12.0972380553783,Mister Snatch GmbH
+545,Domplatz,6,Regensburg,93047,49.01910030006404,12.0972380553783,M+M Invest GmbH
+546,Domplatz,6,Regensburg,93047,49.01910030006404,12.0972380553783,Teppichhaus am Dom Waldemar Schlecht - Inhaber: Gabriele Schlecht
+547,Untere Bachgasse,1,Regensburg,93047,49.01987818574223,12.095155542825108,Individualreisen Seitz e.K.
+548,Untere Bachgasse,12,Regensburg,93047,49.01866502507154,12.094688100005282,Frauengesundheitszentrum e.V.
+549,Untere Bachgasse,12,Regensburg,93047,49.01866502507154,12.094688100005282,LINTEX Mode GmbH
+550,Hinter der Grieb,9,Regensburg,93047,49.01895252502386,12.094001225005602,Lanovita e.K.
+551,Untere Bachgasse,14,Regensburg,93047,49.018523511246826,12.09454310002736,VAS Versicherungsmakler GmbH
+552,Hinter der Grieb,11,Regensburg,93047,49.01894970000812,12.093884150004396,Aktionskreis 3. Welt e.V.
+553,Rote-Hahnen-Gasse,5,Regensburg,93047,49.01880642506936,12.0938007250165,Leihhaus Ingolstadt Antik und Gold GmbH
+554,Hinter der Grieb,1,Regensburg,93047,49.01899325006796,12.094709774986883,Canku-Outdoor GmbH
+555,Heuweg,15,Regensburg,93055,48.99280653755645,12.142392687578038,Waldorf-Schulverein Regensburg e.V.
+556,Am Wiedfang,5,Regensburg,93047,49.02137271674764,12.096006616695693,KunstKnoten e.V.
+557,Am Wiedfang,2,Regensburg,93047,49.02120128001727,12.096384670015045,KARMA Lounge Gastro KG
+558,Blaue-Lilien-Gasse,3,Regensburg,93047,49.02052710836249,12.095955033287549,PIC NIC Gourmondo + Hotellerie KG
+559,Blaue-Lilien-Gasse,3,Regensburg,93047,49.02052710836249,12.095955033287549,Konditorei Cafe Prock GmbH
+560,Wiesenweg,1,Regensburg,93055,48.9876418500274,12.17404549999544,ARCOMTEC Systemtechnik GmbH
+561,Keilsteiner Weg,14,Regensburg,93055,49.03696182503904,12.155339125045364,R.E.U.T.-Regensburger Energie- und Umwelttechnik OHG
+562,Brombeerweg,2,Regensburg,93055,49.04433933335451,12.158215233357751,IBK Kiesskalt GmbH
+563,Brombeerweg,6,Regensburg,93055,49.04395045004296,12.158710016739317,Wolfgang Oberender Persönlichkeitstraining GmbH
+564,Am Ölberg,2,Regensburg,93047,49.018374990043824,12.091126169918391,Evangelisches Bildungswerk Regensburg e.V.
+565,Predigergasse,2,Regensburg,93047,49.01830442504796,12.090471100018506,Stragenion.com e.K.
+566,Bismarckplatz,9,Regensburg,93047,49.01845102009552,12.090069040020651,Snowball GmbH
+567,Bismarckplatz,9,Regensburg,93047,49.01845102009552,12.090069040020651,TIVOLI-Berlin Aktiengesellschaft
+568,Glockengasse,16,Regensburg,93047,49.01872486672941,12.09126345000763,NaBau eG
+569,Glockengasse,2,Regensburg,93047,49.01956460004121,12.09164383993677,gdvSoft UG (haftungsbeschränkt)
+570,Glockengasse,2,Regensburg,93047,49.01956460004121,12.09164383993677,et sedia schadt + herramhof gmbh
+571,Spiegelgasse,1,Regensburg,93047,49.0180733111452,12.0942670777683,Mink Media International Ltd.
+572,Spiegelgasse,1,Regensburg,93047,49.0180733111452,12.0942670777683,Rugby Club Regensburg 2000 e.V.
+573,Spiegelgasse,1,Regensburg,93047,49.0180733111452,12.0942670777683,Beigang GmbH
+574,Obere Bachgasse,12,Regensburg,93047,49.01764801672808,12.094543266668635,Kosmetikstudio L´image e.K.
+575,Obere Bachgasse,14,Regensburg,93047,49.01756240004296,12.094588450004233,"Bücherkiste, Buchhandlung, Antiquariat Albert Prasch e.K."
+576,Obere Bachgasse,2,Regensburg,93047,49.01819988342549,12.094583616672905,Hubert H Männermode Hubert Huber
+577,Deischgasse,1,Regensburg,93047,49.01766012865308,12.093596028534911,MCB trading Reise- + Immobilien-Vermittlung-GmbH
+578,Spiegelgasse,2,Regensburg,93047,49.018149825030605,12.093951749988497,time4golf e.K.
+579,Spiegelgasse,4,Regensburg,93047,49.01795604022861,12.093659359873952,Vinzenz Weisinger
+580,Am Ölberg,3,Regensburg,93047,49.01820782876048,12.0915852000244,SAHARA Gastro GmbH
+581,Dänzergasse,6,Regensburg,93047,49.01799855006937,12.091693750013896,Eckert Getränketechnik GmbH
+582,Dänzergasse,8,Regensburg,93047,49.0180436000588,12.09142687498869,European Natural Power AG
+583,Dänzergasse,8,Regensburg,93047,49.0180436000588,12.09142687498869,European Natural Power Aktiengesellschaft
+584,Dänzergasse,8,Regensburg,93047,49.0180436000588,12.09142687498869,OSTWIND management GmbH
+585,Dänzergasse,8,Regensburg,93047,49.0180436000588,12.09142687498869,Windpark Scheibe-Trattendorf Verwaltungsgesellschaft mbH
+586,Roter-Brach-Weg,91,Regensburg,93049,49.01829665011632,12.046001450002898,Global Enviro Plasma Technologies GmbH
+587,Roter-Brach-Weg,91,Regensburg,93049,49.01829665011632,12.046001450002898,Abit- Express GmbH + Co. KG
+588,Konrad-Adenauer-Allee,43,Regensburg,93051,48.99862392503402,12.074203900047372,XLhost.de GmbH
+589,Kellerweg,7,Regensburg,93053,49.00814350006759,12.097836449982394,ARS Projekt GmbH
+590,Königswiesenweg,21,Regensburg,93051,49.00768561673794,12.077232049971922,Hurt Vermögensverwaltung GmbH + Co. KG
+591,Königswiesenweg,21,Regensburg,93051,49.00768561673794,12.077232049971922,Fischer Haus + Heim GmbH
+592,Clermont-Ferrand-Allee,38,Regensburg,93049,49.02393685028364,12.063089374876858,Public Media Group GmbH
+593,Dechbettener Brücke,1,Regensburg,93051,49.01096760951895,12.068895481728484,"Support Gesellschaft für Betriebsführung, Dienstleistung und Organisation mbH"
+594,Münzerweg,19,Regensburg,93049,49.01596840000668,12.053812549995774,Jürgen Moch - Handelsvertretung für Sportartikel GmbH
+595,Thannsteinweg,10,Regensburg,93049,49.01514240004845,12.053869900005765,Megist GmbH
+596,Wittweg,8,Regensburg,93049,49.01673386252904,12.05381083750049,Colombiana de Ron KG
+597,Wittweg,8,Regensburg,93049,49.01673386252904,12.05381083750049,Alexander Rohrbach´s Taxi GmbH
+598,Desingweg,7,Regensburg,93049,49.01438737502907,12.0535239625005,OST-EURO Beratungs- und Betreuungs GmbH
+599,Rennweg,11,Regensburg,93049,49.012512100023066,12.053559883327926,ahxor H. Rohm KG
+600,Desingweg,6,Regensburg,93049,49.01411975001292,12.053350899996888,i-medoc GmbH Medizinische Software
+601,Unter den Schwibbögen,23,Regensburg,93047,49.020226690077344,12.100756550031829,ENECA Management- und Beteiligungs-GmbH
+602,Schützenheimweg,18,Regensburg,93049,49.01477652500532,12.043672799996518,Kreisschützenverband Oberpfalz und Donaugau E.V.
+603,Rennweg,22 a,Regensburg,93049,49.01338834003683,12.043353999998011,Alexandra GmbH + Co. IMMO KG
+604,Schützenheimweg,24 a,Regensburg,93049,49.01510400000806,12.043361220001325,Werner Michalke GmbH
+605,Heckenweg,4,Regensburg,93049,49.01439926252294,12.044049874992682,"Prälatur Wohn- und Gewerbebau, Bauconsult GmbH"
+606,Heckenweg,4,Regensburg,93049,49.01439926252294,12.044049874992682,GEFA Gesellschaft für Wohnbau + Vermögensverwaltung mbH
+607,Roter-Brach-Weg,124,Regensburg,93049,49.0177510333771,12.052610016682348,Mark Woodbridge GmbH
+608,Franz-von-Taxis-Ring,4,Regensburg,93049,49.01727400002922,12.052729649984425,RVH GmbH
+609,Kornweg,17,Regensburg,93049,49.01738237500948,12.039601999994831,Numera GmbH Steuerberatungsgesellschaft Wirtschaftsprüfungsgesellschaft
+610,Oberfeldweg,11,Regensburg,93049,49.015003280027855,12.041586200004584,Softwaregilde GmbH
+611,Rennweg,27 a,Regensburg,93049,49.012562350011954,12.042601924996603,B+S GreenPower GmbH
+612,Benediktusweg,12,Regensburg,93049,49.01560087143462,12.0377345571439,Prof. Dr. Josef Scherer ius GmbH
+613,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,E.W. Händler Beteiligungsgesellschaft mbH
+614,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,Mars Real Estate GmbH + Co. KG
+615,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,MERKUR Produkt GmbH + Co. Service KG
+616,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,MERKUR Produkt GmbH
+617,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,Mars Immobilien GmbH
+618,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,Jupiter-NET GmbH + Co. KG
+619,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,Vulkan Immobilien GmbH
+620,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,Vulkan Immobilien GmbH + Co. Grundstücksverwertungs KG
+621,Kornweg,36,Regensburg,93049,49.01647938002674,12.03840424002086,E.W. Händler GmbH + Co. Grundstücksverwertungs-KG
+622,Kornweg,40,Regensburg,93049,49.0162551600473,12.038321779955949,Aiolos GmbH + Co. KG
+623,Kornweg,40,Regensburg,93049,49.0162551600473,12.038321779955949,Aiolos Verwaltungs GmbH
+624,Rennweg,59,Regensburg,93049,49.01249826004077,12.03785785999961,motion events GmbH
+625,Rennweg,65,Regensburg,93049,49.012875200017554,12.037568839985726,Abdichtungsprofi GmbH
+626,An der Brunnstube,4,Regensburg,93051,49.01004245008342,12.055375450049771,Renate Reissermayer-Wolf Grundstücks GmbH + Co. KG
+627,Johann-Igl-Weg,11,Regensburg,93051,49.01084552500633,12.052634600001156,Chips 4 Light GmbH
+628,An der Klosterbreite,12,Regensburg,93051,49.01000750001677,12.05002029999883,Kromo Design UG (haftungsbeschränkt)
+629,An der Klosterbreite,18,Regensburg,93051,49.010291000016494,12.050214500000028,dessertweine.de Dr. Carola Seitz e.K.
+630,An der Klosterbreite,19,Regensburg,93051,49.00933630001659,12.050318274999247,HMC Bautenschutz GmbH + Co. KG
+631,An der Klosterbreite,19,Regensburg,93051,49.00933630001659,12.050318274999247,HMC-Solutions GmbH + Co. KG
+632,An der Klosterbreite,19,Regensburg,93051,49.00933630001659,12.050318274999247,Rupp GmbH
+633,An der Klosterbreite,19,Regensburg,93051,49.00933630001659,12.050318274999247,HMC-Management Consulting GmbH + Co. KG
+634,Haidschlagweg,1,Regensburg,93051,49.00579875717293,12.05883632858776,Herzflut-Fine Fashion GmbH + Co. KG
+635,Haidschlagweg,1,Regensburg,93051,49.00579875717293,12.05883632858776,Herzflut-Fine Fashion Verwaltungs-GmbH
+636,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windpower Beteiligungs-GmbH + Co. KG
+637,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windpower GmbH + Co. Berching 3 KG
+638,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windpower GmbH + Co. Berching 2 KG
+639,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windpower GmbH + Co. Berching 1 KG
+640,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Camp Reed Verwaltungs UG (haftungsbeschränkt)
+641,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,WINDPOWER GmbH + Co. Windkraftwerk Regensburg KG
+642,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windpower GmbH + Co. Berching 4 KG
+643,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windpower GmbH + Co. UW Berching KG
+644,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windkraft Oberpfälzer Jura GmbH + Co. KG
+645,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windpower Verwaltungs-GmbH
+646,Westheim,22,Regensburg,93049,49.02604373336948,12.058674100021578,Windpower GmbH + Co. Windkraftwerk Neumarkt I KG
+647,Westheim,42,Regensburg,93049,49.02494602502772,12.05852957500467,Globalis Oase der Natur Hermann Rogl e.K.
+648,Donaulände,7,Regensburg,93047,49.019775275039606,12.104956449912171,K+P Krankenhausplanungsgruppe GmbH
+649,Donaulände,7,Regensburg,93047,49.019775275039606,12.104956449912171,A3 Gesellschaft von Architekten mbH
+650,Emmeramsplatz,6,Regensburg,93047,49.01554714023818,12.092066189808412,VTS Veranstaltungs + Consult GmbH
+651,Emmeramsplatz,6,Regensburg,93047,49.01554714023818,12.092066189808412,IMMO REAL GmbH
+652,Emmeramsplatz,6,Regensburg,93047,49.01554714023818,12.092066189808412,VTS Veranstaltung + Consult GmbH
+653,Emmeramsplatz,6,Regensburg,93047,49.01533410000325,12.092144799978431,VTS Veranstaltungs + Consult GmbH
+654,Emmeramsplatz,6,Regensburg,93047,49.01533410000325,12.092144799978431,IMMO REAL GmbH
+655,Emmeramsplatz,6,Regensburg,93047,49.01533410000325,12.092144799978431,VTS Veranstaltung + Consult GmbH
+656,Hofgartenweg,2,Regensburg,93051,49.00685544002612,12.089597640020322,"Rudolf Mandl, Konditorei-Cafe-Bäckerei - Inhaber: Josef Schwarz"
+657,Herrnholzbreite,38,Regensburg,93057,49.04982222503805,12.113414725017812,Kulturstiftung Regensburger Domspatzen e.V. Verein zur Förderung der Domspatzen
+658,Hoher-Kreuz-Weg,14,Regensburg,93055,49.01233885003154,12.134272299999855,Wilhelm Kluge GmbH
+659,Am Winterhafen,2,Regensburg,93059,49.02113800003495,12.109083059996609,Garant Immobilien GmbH
+660,Am Winterhafen,2,Regensburg,93059,49.02113800003495,12.109083059996609,BGM Unternehmensberatung GmbH
+661,Auweg,26,Regensburg,93055,49.01615230003368,12.127520900000016,RE-Solar GmbH
+662,Auweg,26,Regensburg,93055,49.01615230003368,12.127520900000016,HM Treuhand GmbH Wirtschaftsprüfungsgesellschaft
+663,Minoritenweg,20,Regensburg,93047,49.01687580007977,12.104581012509952,Bella Rosa Gastro GmbH
+664,Minoritenweg,20,Regensburg,93047,49.01687580007977,12.104581012509952,Rosenpalais GmbH + Co. KG
+665,Minoritenweg,20,Regensburg,93047,49.01687580007977,12.104581012509952,Rosenpalais Verwaltungsgesellschaft mbH
+666,Minoritenweg,24,Regensburg,93047,49.016896375075206,12.105060775002409,Sirius Verwaltungs + Vermittlungsgesellschaft mbH
+667,Auweg,12,Regensburg,93055,49.01563386693172,12.12508998903174,Regensburger Eisenhandel GmbH
+668,Unter den Schwibbögen,13,Regensburg,93047,49.020245700020645,12.099049627271118,Quadriga Kommunikation GmbH
+669,Unter den Schwibbögen,13,Regensburg,93047,49.020245700020645,12.099049627271118,PREGOBELLO GmbH
+670,Unter den Schwibbögen,21,Regensburg,93047,49.0202762579307,12.100517726234708,capigo GmbH
+671,Lindnergasse,4,Regensburg,93047,49.02016960003819,12.100042550009542,Förderverein TeilAuto Regensburg e.V.
+672,Niedermünstergasse,2,Regensburg,93047,49.02000028339037,12.099982966697004,Feuchtinger + Gleichauf GmbH
+673,Auweg,44 c,Regensburg,93055,49.01598235007632,12.131808525007836,"Tutti-Frutti Obst, Gemüse, Früchte Gugg + Grössl OHG"
+674,Ostengasse,14,Regensburg,93047,49.01885962864427,12.104019461897163,Riepl Immobilien GmbH
+675,Ostengasse,14,Regensburg,93047,49.01885962864427,12.104019461897163,RIEBAU Verwaltung GmbH
+676,Ostengasse,14,Regensburg,93047,49.01885962864427,12.104019461897163,Riepl Beteiligungsgesellschaft mbH
+677,Ostengasse,14,Regensburg,93047,49.01885962864427,12.104019461897163,Riepl Verwaltungsgesellschaft mbH
+678,Ostengasse,14,Regensburg,93047,49.01885962864427,12.104019461897163,Riepl GmbH + Co. Entwicklungs KG
+679,Ostengasse,14,Regensburg,93047,49.01885962864427,12.104019461897163,RIEBAU Verwaltung GmbH + Co. Projektentwicklungs KG
+680,Ostengasse,14,Regensburg,93047,49.01885962864427,12.104019461897163,Josef Riepl Universalbau GmbH
+681,Alter Kornmarkt,1,Regensburg,93047,49.01932035628903,12.099937493743033,Herzogshof Gaststättengesellschaft mbH
+682,Schwanenplatz,1,Regensburg,93047,49.01886406678796,12.102366040032033,Hildegard Haber GmbH + Co. KG
+683,Schwanenplatz,1,Regensburg,93047,49.01886406678796,12.102366040032033,Institut für Metallrestaurierung Georg Haber + Johann L.L. Brandner GmbH
+684,Schwanenplatz,1,Regensburg,93047,49.01886406678796,12.102366040032033,Georg Haber Kirchliche Kunst e.K.
+685,Schwanenplatz,1,Regensburg,93047,49.01886406678796,12.102366040032033,Georg Haber + Johann L.L. Brandner GmbH
+686,Schwanenplatz,1,Regensburg,93047,49.01886406678796,12.102366040032033,TaxCon GmbH Steuerberatungsgesellschaft Wirtschaftsberatungsgesellschaft
+687,Schwanenplatz,2,Regensburg,93047,49.01867221544969,12.10236810774532,Geigenbau Goldfuss GmbH + Co. KG
+688,Schwanenplatz,2,Regensburg,93047,49.01867221544969,12.10236810774532,Geigenbau Goldfuss oHG
+689,Schwanenplatz,2,Regensburg,93047,49.01867221544969,12.10236810774532,Geigenbau Goldfuss Verwaltungs GmbH
+690,Kalmünzergasse,3,Regensburg,93047,49.01918888573666,12.102448828563592,Donaumarkt Grundstücks GmbH
+691,Ostengasse,4,Regensburg,93047,49.019371662564495,12.102647375024798,Licaro GmbH
+692,Ostengasse,4,Regensburg,93047,49.019371662564495,12.102647375024798,Car Office GmbH
+693,Kalmünzergasse,5,Regensburg,93047,49.01899121669914,12.102353249949026,Musik Franz Winkelhöfer - Inhaber: Rainer Winkelhöfer
+694,Hallergasse,6,Regensburg,93047,49.018419400030446,12.103834666584495,Riepl GmbH + Co. Grundstücks-KG
+695,St.-Kassians-Platz,5,Regensburg,93047,49.01712323753451,12.09762615002728,Carl Roesch - Inhaber: Carmen Fernandez-Kirchlechner
+696,Pfauengasse,1,Regensburg,93047,49.01842278579533,12.098070700023522,Volksbank Regensburg eG
+697,Frauenbergl,2,Regensburg,93047,49.01862621827564,12.098155509066943,Kamax GmbH + Co. KG
+698,Frauenbergl,2,Regensburg,93047,49.01862621827564,12.098155509066943,Kamax Verwaltungs-GmbH
+699,Frauenbergl,2,Regensburg,93047,49.01862621827564,12.098155509066943,Dom-Apotheke Sonja Karl e.K.
+700,Kapellengasse,2,Regensburg,93047,49.01851700008465,12.099391300066763,Preis + Preis OHG
+701,Domplatz,4,Regensburg,93047,49.01899183338627,12.097724073259926,Fielmann AG + Co.
+702,Domplatz,4,Regensburg,93047,49.01899183338627,12.097724073259926,Fielmann AG + Co. KG
+703,Domplatz,4,Regensburg,93047,49.01899183338627,12.097724073259926,LEDA Handelsgesellschaft mbH
+704,Drei-Kronen-Gasse,3,Regensburg,93047,49.01795061675509,12.10038968332976,DELUXE e.K. Haarstudio
+705,Am Königshof,7,Regensburg,93047,49.015459660080246,12.100755580027286,Invenzio GmbH + Co. KG
+706,Am Königshof,7,Regensburg,93047,49.015459660080246,12.100755580027286,Invenzio Verwaltungs GmbH
+707,Am Königshof,7,Regensburg,93047,49.015459660080246,12.100755580027286,Ludwig Inkoferer Augenoptik - Uhren - Inhaber: Stefan Franke e.K.
+708,Heiliggeistgasse,10,Regensburg,93047,49.01805366251238,12.104594050000513,Oriental Star GmbH
+709,Ostengasse,10,Regensburg,93047,49.01909627503908,12.10351697499015,Optik Rupert Wagner - Inhaber: Gabriele Graf
+710,Ostengasse,12,Regensburg,93047,49.01898841059229,12.103740573729382,Sanitätshaus Reichel + Platzer GmbH
+711,Gichtlgasse,5,Regensburg,93047,49.01929400004194,12.103843675003104,HOME DECOR e.K.
+712,Schattenhofergasse,7,Regensburg,93047,49.0193625200987,12.10515208005462,Hugo Schall GmbH + Co. KG
+713,Schattenhofergasse,7,Regensburg,93047,49.0193625200987,12.10515208005462,Hugo Schall KG
+714,Schattenhofergasse,7,Regensburg,93047,49.0193625200987,12.10515208005462,Schall Geschäftsführungs GmbH
+715,Deischgasse,2,Regensburg,93047,49.01765348186242,12.093150845477927,PRISMA GmbH Projektentwicklung - Wohnbau
+716,Deischgasse,2,Regensburg,93047,49.01765348186242,12.093150845477927,PRISMA Wohnbau e.K.
+717,Wollwirkergasse,10,Regensburg,93047,49.02080056670152,12.086850599987168,Verein kommunikatives Wohnen e.V.
+718,Haaggasse,1,Regensburg,93047,49.02178520003127,12.08756141663596,Edelweiss Michael Jaugstetter UG (haftungsbeschränkt)
+719,Lederergasse,6,Regensburg,93047,49.022011350010416,12.087286249982368,Michael Graf Bäckerei - Konditorei + Kaffee-Betrieb
+720,Wollwirkergasse,8,Regensburg,93047,49.0207179833485,12.086966916644949,roomcode.GmbH
+721,Am Protzenweiher,27,Regensburg,93059,49.026235550037626,12.092661437515034,KPR Geschäftsführungs- + Verwaltungs GmbH + Co. Erste Gross Kienitz KG
+722,Am Protzenweiher,27,Regensburg,93059,49.026235550037626,12.092661437515034,KPR Geschäftsführungs- + Verwaltungs GmbH + Co. Filmproduktions KG
+723,Am Protzenweiher,27,Regensburg,93059,49.026235550037626,12.092661437515034,KPR Geschäftsführungs- + Verwaltungs GmbH
+724,Am Protzenweiher,27,Regensburg,93059,49.026235550037626,12.092661437515034,Klaus Ratzinger Flaschengrosshandlung
+725,Spitalgasse,1,Regensburg,93059,49.02462594001431,12.095380780007693,Krippenverein Regensburg e.V.
+726,An der Irler Höhe,40,Regensburg,93055,49.00946863761273,12.136475224647462,Oberflächenzentrum Baumer e.K.
+727,An der Irler Höhe,38,Regensburg,93055,49.00961341256775,12.136253874891953,Iliotec Solar GmbH
+728,Auweg,32,Regensburg,93055,49.016135514325406,12.128858200013996,Werkhof Regensburg gGmbH der Evang.-Luth. Gesamtkirchengemeinde und des Diakonischen Werkes Regensburg
+729,Auweg,32,Regensburg,93055,49.016135514325406,12.128858200013996,Werkhof Regensburg gGmbH der Evang.-Luth.Gesamtkirchengemeinde
+730,Auweg,32,Regensburg,93055,49.016135514325406,12.128858200013996,Werkhof Amberg-Sulzbach gemeinnützige Gesellschaft mbH Ein Unternehmen der Diakonie
+731,Auweg,34,Regensburg,93055,49.01611797507117,12.1291060625287,CHRISTIAN GRESSER Behälter- + Anlagenbau GmbH
+732,Minoritenweg,25,Regensburg,93047,49.01713685006696,12.10614469999413,de-iure-pl Verwaltungsgesellschaft UG (haftungsbeschränkt)
+733,Minoritenweg,25,Regensburg,93047,49.01713685006696,12.10614469999413,de-iure-pl UG (haftungsbeschränkt) + Co. KG
+734,An der Irler Höhe,1,Regensburg,93055,49.01230885007167,12.13092378545682,B + S Autosalon GmbH
+735,Ostengasse,31,Regensburg,93047,49.01900630011979,12.10654377271548,Regensburger Wohnstätten e.V.
+736,Am Ölberg,6,Regensburg,93047,49.017062280052265,12.091004639997648,Bibliotheksverband Niederbayern und Oberpfalz e.V.
+737,Am Ölberg,6,Regensburg,93047,49.01742915005173,12.09098064990921,Bibliotheksverband Niederbayern und Oberpfalz e.V.
+738,Adlergasse,1,Regensburg,93047,49.01715716676635,12.090957083377374,Lauf und Berg Sporthandels GmbH
+739,Obermünsterplatz,5,Regensburg,93047,49.01621427502789,12.096297249957148,St.-Vinzentiusverein in Regensburg e.V.
+740,Hafnersteig,6,Regensburg,93051,49.00895605002774,12.080807074919406,Lukas Ebner e.K.
+741,Grasgasse,12,Regensburg,93047,49.0156042000483,12.099147150014302,Netzwerk Autismus Niederbayern Oberpfalz GmbH
+742,Ägidienplatz,2,Regensburg,93047,49.017411571501256,12.090522342830727,Kulturell-Gemeinnützige Oberpfalz GmbH
+743,Grasgasse,2,Regensburg,93047,49.01580467507628,12.098231100008114,T-Project Verwaltungs GmbH
+744,Grasgasse,2,Regensburg,93047,49.01580467507628,12.098231100008114,T-Project GmbH + Co. KG
+745,Grasgasse,6,Regensburg,93047,49.01576717503141,12.098606674998583,Königlich Bayerische Donaudampfschiffahrtsgesellschaft mbH
+746,Grasgasse,6,Regensburg,93047,49.01576717503141,12.098606674998583,Königlich Sächsische Dampfeisenbahngesellschaft mbH
+747,Grasgasse,6,Regensburg,93047,49.01576717503141,12.098606674998583,Königlich Preussische Dampfeisenbahngesellschaft mbH
+748,Grasgasse,6,Regensburg,93047,49.01576717503141,12.098606674998583,Königlich Preussische Dampfschiffahrtsgesellschaft mbH
+749,Grasgasse,6,Regensburg,93047,49.01576717503141,12.098606674998583,Königlich Sächsische Dampfschiffahrtsgesellschaft mbH
+750,Emmeramsplatz,7,Regensburg,93047,49.01593695004306,12.092132600097449,Seniorenresidenz Schloss Thurn und Taxis Regensburg GmbH
+751,Kreuzgasse,7,Regensburg,93047,49.01953983342104,12.088219050002795,Kneitinger Gaststätten Betriebs-GmbH + Co. KG
+752,Kreuzgasse,7,Regensburg,93047,49.01953983342104,12.088219050002795,Kneitinger GmbH
+753,Kreuzgasse,7,Regensburg,93047,49.01953983342104,12.088219050002795,Brauerei Kneitinger GmbH + Co. KG
+754,Am Ölberg,15,Regensburg,93047,49.016870075032685,12.091347349994429,Grigoriadou GmbH
+755,Badener Weg,2,Regensburg,93059,49.03709958005128,12.095533960073327,ITI Industrial Supplies GmbH
+756,Friedrich-Viehbacher-Allee,7,Regensburg,93055,48.988406360252704,12.142263339538369,ZAHNTECHNIK KARL GmbH

@@ -11,7 +11,14 @@ This repository contains data of fake people and companies you can use for your 
 
 ## Overview
 
-Please come up with your own ideas on how to make work travel more sustainable. This sample data should make starting easier. Feel free to use more datasources, or make data up if necessary. It is not important to have a working implementation. Good ideas count!
+Please come up with your own ideas on how to make work travel more sustainable. How can we reduce or prevent unnecessary travel. Optimize the routes or show alternative modes of travel. This sample data should make starting easier. Feel free to use more datasources, or make data up if necessary. It is not important to have a working implementation. Good ideas count!
+
+### Some ideas
+
+* Imagine a desk booking system where you are able to retrieve data from and see who is when in the office. Could this data be used to make work travel more sustainable?
+* Maybe there is an API for traffic data that we can use? Weather information? Public transport?
+* A company might have a parking lot with usage statistics. Maybe this data could be interessting.
+* Maybe we can make this fun by adding competition or gamification
 
 The data is structured as follows:
 
@@ -27,12 +34,6 @@ Hackaburg2023/
 ```
 
 With this data you have 10000 people distributed around Ratisbona and around 750 companies that are located in Ratisbona. Everything else is up to your imagination. Feel free to add more data, new data, real data.
-
-### Some ideas
-
-* Imagine a desk booking system where you are able to retrieve data from and see who is when in the office. Could this data be used to make work travel more sustainable?
-* Maybe there is an API for traffic data that we can use? Weather information? Public transport.
-* A company might have a parking lot with usage statistics. Maybe this data would be interessting.
 
 ## How to generate your own data
 
